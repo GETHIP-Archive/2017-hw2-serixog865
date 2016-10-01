@@ -1,0 +1,13 @@
+{
+    "firstName":"Grace",
+    "lastName":"Erixon",
+    "age":16,
+    "picture": "",
+    "topFive": [
+        {"topFive": "Futuristic"},
+        {"topFive": "Strategic"},
+		{"topFive": "Achiever"},
+		{"topFive": "Focus"},
+		{"topFive": "Competition"}
+    ]
+}
