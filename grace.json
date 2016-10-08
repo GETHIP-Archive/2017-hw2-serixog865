@@ -4,10 +4,10 @@
     "age":16,
     "picture": "https://pbs.twimg.com/profile_images/378800000576415255/5c105b030598acc473972c2a2d41aec5_400x400.png",
     "topFive": [
-        {"strength": "Futuristic"},
+       	{"strength": "Futuristic"},
         {"strength": "Strategic"},
-		{"strength": "Achiever"},
-		{"strength": "Focus"},
-		{"strength": "Competition"}
+	{"strength": "Achiever"},
+	{"strength": "Focus"},
+	{"strength": "Competition"}
     ]
 }
