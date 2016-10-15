@@ -1,0 +1,30 @@
+body {
+	background-color:black;
+	color: white;
+}
+
+li {
+    list-style-type: none;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+#profile-name {
+	font-size: 80px;
+}
+
+h2 {
+	font-size: 60px;
+}
+
+ul {
+	font-size: 30px;
+	text-align: center;
+}
+
+.intro {
+	text-align: center;
+}
